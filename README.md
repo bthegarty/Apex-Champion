@@ -1,4 +1,5 @@
 # Apex-Predators
+A stat tracker for the battle royale Apex Legends
 
 ## Run dev env 
 
@@ -31,6 +32,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
