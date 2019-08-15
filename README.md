@@ -1,6 +1,8 @@
 # Apex-Predators
 A stat tracker for the battle royale Apex Legends
 
+Link at http://bthegarty-apex-legends.herokuapp.com/
+
 ## Project setup
 ```
 npm install
